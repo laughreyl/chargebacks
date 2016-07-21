@@ -1,186 +1,237 @@
-6/20/2016,10:05 AM,GENIE Fly Work,flip parents; clear stocks,,0.5,
-6/20/2016,5:30 PM,GENIE Fly Work,virgins,,0.25,
-6/20/2016,9:45 AM,GI Meetings,XZ; KK; SH,,0.25,
-6/20/2016,11:00 AM,GI Meetings,discuss 488 excitation of Cy5,,1.25,
-6/20/2016,5:10 PM,GI Meetings,review airyscan images,,0.25,
-6/20/2016,1:00 PM,Group Meetings,team meeting,,0.75,
-6/20/2016,9:55 AM,PTR Chores,email; calendar,,0.25,
-6/20/2016,10:30 AM,PTR Chores,chargebacks,,0.5,
-6/20/2016,12:40 PM,PTR Chores,email; calendar,,0.25,
-6/20/2016,2:30 PM,Reiser Lab The Box,cross,,0.5,
-6/20/2016,5:45 PM,depart,,,0,
-6/20/2016,12:10 PM,lunch,,,0,
-6/20/2016,1:45 PM,XZ Setup,prep,20160603_100_XZ,0.75,
-6/20/2016,3:00 PM,XZ Setup,imaging,20160603_100_XZ,2.25,
-6/21/2016,8:30 AM,PTO/ STO,graduation,,8,
-6/21/2016,4:30 PM,depart,,,0,
-6/22/2016,9:15 AM,GENIE Fly Work,virgins; flip parents; cross,,0.75,
-6/22/2016,4:40 PM,GENIE Fly Work,virgins,,0.25,
-6/22/2016,11:30 AM,GI Meetings,imaging,,0.25,
-6/22/2016,9:05 AM,PTR Chores,email; calendar,,0.25,
-6/22/2016,2:31 PM,PTR Chores,chargebacks,,0.5,
-6/22/2016,10:00 AM,Reiser Lab The Box,sort,,1,
-6/22/2016,11:00 AM,Reiser Lab The Box,analysis,,0.5,
-6/22/2016,11:40 AM,Reiser Lab The Box,analysis,,0.25,
-6/22/2016,12:40 PM,Reiser Lab The Box,analysis,,1.75,
-6/22/2016,5:10 PM,depart,,,0,
-6/22/2016,12:00 PM,lunch,,,0,
-6/22/2016,2:55 PM,XZ Setup,imaging,20160603_101_XZ,1.75,
-6/22/2016,4:55 PM,XZ Setup,check imaging time,20160603_101_XZ,0.25,7.5
-6/23/2016,10:20 AM,GENIE Fly Work,flip parents; virgins,,0.5,
-6/23/2016,4:05 PM,GENIE Fly Work,virgins,,0,
-6/23/2016,10:05 AM,PTR Chores,email; calendar,,0.25,
-6/23/2016,11:20 AM,PTR Chores,PTO request,,0.25,
-6/23/2016,4:10 PM,PTR Chores,calendar,,0.75,
-6/23/2016,8:45 PM,PTR Chores,chargebacks,,1.75,
-6/23/2016,12:00 PM,Reiser Lab The Box,run experiment,,3.5,
-6/23/2016,3:30 PM,Reiser Lab The Box,chat w/ Michael,,0.5,
-6/23/2016,4:00 PM,Reiser Lab The Box,clear parents,,0,
-6/23/2016,4:48 PM,depart,,,0,
-6/23/2016,10:30 PM,depart,,,0,
-6/23/2016,11:30 AM,lunch,,,0,
-6/23/2016,10:45 AM,XZ Post Processing,copy to public; rename; slidemap,20160603_101_XZ,0.5,
-6/24/2016,11:20 AM,Classes and Training,search for Calyx images,,0.5,
-6/24/2016,8:30 AM,GENIE Fly Work,show to Christina,,0.25,
-6/24/2016,1:00 PM,GI Meetings,"KK, SH, XZ, assessment, Reiser",,0.5,
-6/24/2016,10:10 AM,PTO/ STO,doctor appt,,1.25,
-6/24/2016,8:00 AM,PTR Chores,email; calendar,,0.25,
-6/24/2016,8:45 AM,PTR Chores,confocal chargebacks / PTR-IHC Smartsheet,,1.25,
-6/24/2016,8:15 AM,Reiser Lab The Box,analysis,,0.25,
-6/24/2016,12:20 PM,Reiser Lab The Box,analysis,,0.75,
-6/24/2016,1:35 PM,Reiser Lab The Box,analysis,,0.5,
-6/24/2016,6:45 PM,depart,,,0,
-6/24/2016,11:50 AM,lunch,,,0,
-6/24/2016,4:05 PM,KK Post Processing,airyscan screenshots to verify image locations,20160527_100_KK,2.75,
-6/24/2016,8:10 AM,KK Setup,prep coord sheet,20160527_100_KK,0,
-6/24/2016,10:00 AM,KK Setup,prep,20160527_100_KK,0.25,
-6/24/2016,2:00 PM,KK Setup,airyscan imaging @ 63X,20160527_100_KK,2,
-6/25/2016,1:00 PM,depart,,,0,
-6/25/2016,11:00 AM,KK Post Processing,verifying image locations,20160527_100_KK,2,
-6/27/2016,10:30 AM,GI Meetings,XZ review,,1.25,
-6/27/2016,8:30 AM,PTR Chores,email; calendar,,0.25,
-6/27/2016,8:45 AM,Reiser Lab The Box,analysis,,1.75,
-6/27/2016,5:00 PM,Reiser Lab The Box,cross,,1,
-6/27/2016,6:00 PM,depart,,,0,
-6/27/2016,11:50 AM,lunch,,,0,
-6/27/2016,1:00 PM,XZ Post Processing,review brains from row D,20160603_101_XZ,2,
-6/27/2016,3:00 PM,XZ Setup,imaging,20160624_100_XZ,2,
-6/28/2016,9:45 AM,GENIE Fly Work,flip parents,,0.25,
-6/28/2016,9:00 AM,Other Imaging,w/ Aaron - saved files are not 3D,,0.25,
-6/28/2016,8:30 AM,PTR Chores,email; calendar,,0.5,
-6/28/2016,9:40 AM,PTR Chores,email; calendar,,0,
-6/28/2016,9:55 AM,Reiser Lab The Box,sort,,1.25,
-6/28/2016,6:02 PM,Reiser Lab The Box,write protocol,,0.75,
-6/28/2016,8:26 PM,depart,,,0,
-6/28/2016,11:45 AM,lunch,,,0,
-6/28/2016,11:10 AM,SH Setup,discuss w/ SH,20160527_101_SH,0.5,
-6/28/2016,1:20 PM,SH Setup,find conditions w/ no bleed thru,20160527_101_SH,0.75,
-6/28/2016,2:00 PM,SH Setup,20X imaging,20160527_101_SH,4,
-6/28/2016,6:45 PM,SH Setup,63X imaging,20160527_101_SH,1.75,7
-6/28/2016,8:05 AM,XZ Post Processing,remove; copy,20160624_100_XZ,0.5,
-6/28/2016,9:10 AM,XZ Post Processing,copy; MIPs; QC,20160624_100_XZ,0.5,
-6/29/2016,9:50 AM,GENIE Fly Work,w/ Christina,,0.25,
-6/29/2016,4:00 PM,GI Meetings,XZ discussion,,0.75,
-6/29/2016,9:40 AM,Other Imaging,w/Christina - discuss Stand Select,,0.25,
-6/29/2016,3:45 PM,Other Imaging,filing papers,,0,
-6/29/2016,8:40 AM,PTR Chores,email; calendar,,0.25,
-6/29/2016,8:50 AM,Reiser Lab The Box,"test protocol, write analysis code",,0.75,
-6/29/2016,10:05 AM,Reiser Lab The Box,test analysis,,1,
-6/29/2016,11:45 AM,Reiser Lab The Box,run experiment,,0.25,
-6/29/2016,12:30 PM,Reiser Lab The Box,run experiment,,0.5,
-6/29/2016,1:15 PM,Reiser Lab The Box,run experiment,,0.5,
-6/29/2016,2:05 PM,Reiser Lab The Box,run experiment,,0.5,
-6/29/2016,3:20 PM,Reiser Lab The Box,run experiment,,0.5,4
-6/29/2016,5:00 PM,depart,,,0,
-6/29/2016,12:00 PM,lunch,,,0,
-6/29/2016,11:00 AM,SH Post Processing,copy; MIPs; QC,20160527_101_SH,0.75,
-6/29/2016,2:40 PM,XZ Post Processing,slidemap,20160603_100_XZ,0.75,
-6/29/2016,1:00 PM,XZ Post Processing,slidemap,20160603_101_XZ,0.25,
-6/29/2016,1:45 PM,XZ Post Processing,slidemap,20160603_101_XZ,0.25,
-6/29/2016,3:50 PM,XZ Post Processing,,20160624_100_XZ,0.25,
-6/29/2016,4:45 PM,XZ Post Processing,slidemap,20160624_100_XZ,0.25,1.75
-6/30/2016,9:00 AM,PTO/ STO,vacation,,8,
-6/30/2016,5:00 PM,depart,,,0,
-7/1/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/1/2016,5:00 PM,depart,,,0,
-7/11/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/11/2016,5:00 PM,depart,,,0,
-7/12/2016,9:15 AM,Classes and Training,Workstation,,0.25,
-7/12/2016,9:30 AM,GI Meetings,"XZ, SH, YI",,2.75,
-7/12/2016,3:10 PM,Other Imaging,test stand select,,0.25,
-7/12/2016,8:30 AM,PTR Chores,email; calendar,,0.5,
-7/12/2016,9:00 AM,Reiser Lab The Box,analysis,,0.25,
-7/12/2016,12:10 PM,Reiser Lab The Box,analysis,,0,
-7/12/2016,1:40 PM,Reiser Lab The Box,analysis,,1.25,
-7/12/2016,5:55 PM,depart,,,0,
-7/12/2016,12:15 PM,lunch,,,0,
-7/12/2016,1:10 PM,XZ Post Processing,compare stats,20160624_100_XZ,0.5,
-7/12/2016,3:00 PM,XZ Setup,imaging,20160630_100_XZ,0.25,
-7/12/2016,3:20 PM,XZ Setup,imaging,20160630_100_XZ,2.5,
-7/12/2016,12:45 PM,XZ Setup,prep,20160630_101_XZ,0.5,
-7/13/2016,10:40 AM,Classes and Training,AiryScan,,1,
-7/13/2016,1:00 PM,Classes and Training,Workstation,,0.5,
-7/13/2016,9:50 AM,GENIE Fly Work,virgins,,0.25,
-7/13/2016,5:00 PM,GENIE Fly Work,virgins,,0.25,
-7/13/2016,2:30 PM,GI Meetings,,,1.5,
-7/13/2016,8:30 AM,PTR Chores,email; calendar,,0.25,
-7/13/2016,8:40 AM,Reiser Lab The Box,analysis,,0.5,
-7/13/2016,12:15 PM,Reiser Lab The Box,analysis,,0.75,
-7/13/2016,1:30 PM,Reiser Lab The Box,comparison Summary,,1,
-7/13/2016,4:00 PM,Reiser Lab The Box,comparison Summary,,1,
-7/13/2016,5:20 PM,depart,,,0,
-7/13/2016,11:45 AM,lunch,,,0,
-7/13/2016,9:05 AM,XZ Post Processing,copy; MIPs; QC,20160630_101_XZ,0.75,
-7/13/2016,10:11 AM,XZ Post Processing,slidemap; stats,20160630_101_XZ,0.5,
-7/14/2016,10:20 AM,GENIE Fly Work,virgins,,0.25,
-7/14/2016,10:00 AM,PTR Chores,email; calendar,,0.25,
-7/14/2016,10:30 AM,Reiser Lab The Box,comparison Summary,,1.5,
-7/14/2016,12:00 PM,Reiser Lab The Box, run experiment - cancelled ,,0.25,
-7/14/2016,12:45 PM,Reiser Lab The Box,comparison Summary,,2,
-7/14/2016,2:40 PM,Reiser Lab The Box,fly work,,0.25,
-7/14/2016,4:30 PM,Reiser Lab The Box,discussion,,0.25,4.25
-7/14/2016,4:50 PM,depart,,,0,
-7/14/2016,12:15 PM,lunch,,,0,
-7/14/2016,3:50 PM,XZ Post Processing,rename images; MIPs; stats,20160603_100_XZ,0.75,
-7/14/2016,3:15 PM,XZ Post Processing,rename images; MIPs; stats,20160603_101_XZ,0.5,
-7/14/2016,2:50 PM,XZ Post Processing,rename images; slidemap; MIPs; stats,20160624_100_XZ,0.5,
-7/15/2016,8:55 AM,GENIE Fly Work,virgins,,0.25,
-7/15/2016,3:50 PM,GENIE Fly Work,crosses,,0.75,
-7/15/2016,2:20 PM,GI Meetings,"Reiser, SH, KK, XZ, Mike Dolan",,1.5,
-7/15/2016,9:05 AM,Other Imaging,update confocal tables,,0,
-7/15/2016,8:40 AM,PTR Chores,email; calendar,,0.25,
-7/15/2016,10:15 AM,PTR Chores,chargebacks,,1.25,
-7/15/2016,12:15 PM,Reiser Lab The Box,create protocol 5.39,,1,
-7/15/2016,4:30 PM,depart,,,0,
-7/15/2016,11:40 AM,lunch,,,0,
-7/15/2016,11:25 AM,PTR Chores,PTR-IHC Smartsheet updates,20160603_101_XZ,0.25,
-7/15/2016,2:10 PM,PTR Chores,PTR-IHC Smartsheet updates,20160624_100_XZ,0.25,
-7/15/2016,9:35 AM,SH Setup,prep,20160701_100_20X,0.5,
-7/15/2016,1:20 PM,XZ Post Processing,stats,20160603_100_XZ,0.75,
-7/15/2016,9:10 AM,XZ Post Processing,stats for Susana's run,20160603_101_20X,0.5,
-7/15/2016,10:00 AM,XZ Post Processing,stats,20160603_101_XZ,0.25,
-7/15/2016,2:00 PM,XZ Post Processing,,20160624_100_XZ,0.25,1.75
-7/18/2016,9:45 AM,Classes and Training,email Aaron about 800 instruction,,0,
-7/18/2016,12:00 PM,Classes and Training,Git,,1,
-7/18/2016,1:00 PM,Group Meetings,team meeting,,0.75,
-7/18/2016,9:40 AM,Other Imaging,check HD space,,0,
-7/18/2016,4:40 PM,Other Imaging,PTR-IHC Smartsheet updates,,0.5,
-7/18/2016,9:10 AM,PTR Chores,email; calendar,,0.5,
-7/18/2016,4:30 PM,PTR Chores,chargebacks,,0.25,
-7/18/2016,5:12 PM,depart,,,0,
-7/18/2016,9:50 AM,KK Post Processing,renaming,20160527_100_KK,1.25,
-7/18/2016,1:45 PM,KK Post Processing,slidemaps,20160527_100_KK,1.25,
-7/18/2016,3:45 PM,KK Post Processing,verify all backups,20160527_100_KK,0.5,
-7/18/2016,11:00 AM,KK Post Processing,renaming,20160602_100_KK,1,
-7/18/2016,3:00 PM,KK Post Processing,slidemaps,20160602_100_KK,0.75,
-7/18/2016,4:15 PM,KK Post Processing,verify all backups,20160602_100_KK,0.25,5
-7/4/2016,9:00 AM,HHMI Holiday,vacation,,8,
-7/4/2016,5:00 PM,depart,,,0,
-7/5/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/5/2016,5:00 PM,depart,,,0,
-7/6/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/6/2016,5:00 PM,depart,,,0,
-7/7/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/7/2016,5:00 PM,depart,,,0,
-7/8/2016,9:00 AM,PTO/ STO,vacation,,8,
-7/8/2016,5:00 PM,depart,,,0,
+6/20/2016,10:05 AM,GENIE Fly Work,flip parents; clear stocks,,0.5
+6/20/2016,5:30 PM,GENIE Fly Work,virgins,,0.25
+6/20/2016,9:45 AM,GI Meetings,XZ; KK; SH,,0.25
+6/20/2016,11:00 AM,GI Meetings,discuss 488 excitation of Cy5,,1.25
+6/20/2016,5:10 PM,GI Meetings,review airyscan images,,0.25
+6/20/2016,1:00 PM,Group Meetings,team meeting,,0.75
+6/20/2016,9:55 AM,PTR Chores,email; calendar,,0.25
+6/20/2016,10:30 AM,PTR Chores,chargebacks,,0.5
+6/20/2016,12:40 PM,PTR Chores,email; calendar,,0.25
+6/20/2016,2:30 PM,Reiser Lab The Box,cross,,0.5
+6/20/2016,5:45 PM,depart,,,0.0
+6/20/2016,12:10 PM,lunch,,,0.0
+6/20/2016,1:45 PM,XZ Setup,prep,20160603_100_XZ,0.75
+6/20/2016,3:00 PM,XZ Setup,imaging,20160603_100_XZ,2.25
+6/21/2016,8:30 AM,PTO/ STO,graduation,,8.0
+6/21/2016,4:30 PM,depart,,,0.0
+6/22/2016,9:15 AM,GENIE Fly Work,virgins; flip parents; cross,,0.75
+6/22/2016,4:40 PM,GENIE Fly Work,virgins,,0.25
+6/22/2016,11:30 AM,GI Meetings,imaging,,0.25
+6/22/2016,9:05 AM,PTR Chores,email; calendar,,0.25
+6/22/2016,2:31 PM,PTR Chores,chargebacks,,0.5
+6/22/2016,10:00 AM,Reiser Lab The Box,sort,,1.0
+6/22/2016,11:00 AM,Reiser Lab The Box,analysis,,0.5
+6/22/2016,11:40 AM,Reiser Lab The Box,analysis,,0.25
+6/22/2016,12:40 PM,Reiser Lab The Box,analysis,,1.75
+6/22/2016,5:10 PM,depart,,,0.0
+6/22/2016,12:00 PM,lunch,,,0.0
+6/22/2016,2:55 PM,XZ Setup,imaging,20160603_101_XZ,1.75
+6/22/2016,4:55 PM,XZ Setup,check imaging time,20160603_101_XZ,0.25
+6/23/2016,10:20 AM,GENIE Fly Work,flip parents; virgins,,0.5
+6/23/2016,4:05 PM,GENIE Fly Work,virgins,,0.0
+6/23/2016,10:05 AM,PTR Chores,email; calendar,,0.25
+6/23/2016,11:20 AM,PTR Chores,PTO request,,0.25
+6/23/2016,4:10 PM,PTR Chores,calendar,,0.75
+6/23/2016,8:45 PM,PTR Chores,chargebacks,,1.75
+6/23/2016,12:00 PM,Reiser Lab The Box,run experiment,,3.5
+6/23/2016,3:30 PM,Reiser Lab The Box,chat w/ Michael,,0.5
+6/23/2016,4:00 PM,Reiser Lab The Box,clear parents,,0.0
+6/23/2016,4:48 PM,depart,,,0.0
+6/23/2016,10:30 PM,depart,,,0.0
+6/23/2016,11:30 AM,lunch,,,0.0
+6/23/2016,10:45 AM,XZ Post Processing,copy to public; rename; slidemap,20160603_101_XZ,0.5
+6/24/2016,11:20 AM,Classes and Training,search for Calyx images,,0.5
+6/24/2016,8:30 AM,GENIE Fly Work,show to Christina,,0.25
+6/24/2016,1:00 PM,GI Meetings,"KK, SH, XZ, assessment, Reiser",,0.5
+6/24/2016,10:10 AM,PTO/ STO,doctor appt,,1.25
+6/24/2016,8:00 AM,PTR Chores,email; calendar,,0.25
+6/24/2016,8:45 AM,PTR Chores,confocal chargebacks / PTR-IHC Smartsheet,,1.25
+6/24/2016,8:15 AM,Reiser Lab The Box,analysis,,0.25
+6/24/2016,12:20 PM,Reiser Lab The Box,analysis,,0.75
+6/24/2016,1:35 PM,Reiser Lab The Box,analysis,,0.5
+6/24/2016,6:45 PM,depart,,,0.0
+6/24/2016,11:50 AM,lunch,,,0.0
+6/24/2016,4:05 PM,KK Post Processing,airyscan screenshots to verify image locations,20160527_100_KK,2.75
+6/24/2016,8:10 AM,KK Setup,prep coord sheet,20160527_100_KK,0.0
+6/24/2016,10:00 AM,KK Setup,prep,20160527_100_KK,0.25
+6/24/2016,2:00 PM,KK Setup,airyscan imaging @ 63X,20160527_100_KK,2.0
+6/25/2016,1:00 PM,depart,,,0.0
+6/25/2016,11:00 AM,KK Post Processing,verifying image locations,20160527_100_KK,2.0
+6/27/2016,10:30 AM,GI Meetings,XZ review,,1.25
+6/27/2016,8:30 AM,PTR Chores,email; calendar,,0.25
+6/27/2016,8:45 AM,Reiser Lab The Box,analysis,,1.75
+6/27/2016,5:00 PM,Reiser Lab The Box,cross,,1.0
+6/27/2016,6:00 PM,depart,,,0.0
+6/27/2016,11:50 AM,lunch,,,0.0
+6/27/2016,1:00 PM,XZ Post Processing,review brains from row D,20160603_101_XZ,2.0
+6/27/2016,3:00 PM,XZ Setup,imaging,20160624_100_XZ,2.0
+6/28/2016,9:45 AM,GENIE Fly Work,flip parents,,0.25
+6/28/2016,9:00 AM,Other Imaging,w/ Aaron - saved files are not 3D,,0.25
+6/28/2016,8:30 AM,PTR Chores,email; calendar,,0.5
+6/28/2016,9:40 AM,PTR Chores,email; calendar,,0.0
+6/28/2016,9:55 AM,Reiser Lab The Box,sort,,1.25
+6/28/2016,6:02 PM,Reiser Lab The Box,write protocol,,0.75
+6/28/2016,8:26 PM,depart,,,0.0
+6/28/2016,11:45 AM,lunch,,,0.0
+6/28/2016,5:45 PM,lunch,,,0.0
+6/28/2016,1:20 PM,GI Meetings,discuss how to find conditions w/ no bleed thru,20160527_101_SH,0.75
+6/28/2016,5:20 PM,SH Post Processing,copy; MIPS,20160527_101_SH,0.5
+6/28/2016,11:10 AM,SH Setup,discuss w/ SH,20160527_101_SH,0.5
+6/28/2016,2:00 PM,SH Setup,20X imaging & control exps,20160527_101_SH,3.25
+6/28/2016,6:45 PM,SH Setup,63X imaging,20160527_101_SH,1.75
+6/28/2016,8:05 AM,XZ Post Processing,remove; copy,20160624_100_XZ,0.5
+6/28/2016,9:10 AM,XZ Post Processing,copy; MIPs; QC,20160624_100_XZ,0.5
+6/29/2016,9:50 AM,GENIE Fly Work,w/ Christina,,0.25
+6/29/2016,4:00 PM,GI Meetings,XZ discussion,,0.75
+6/29/2016,9:40 AM,Other Imaging,w/Christina - discuss Stand Select,,0.25
+6/29/2016,3:45 PM,Other Imaging,filing papers,,0.0
+6/29/2016,8:40 AM,PTR Chores,email; calendar,,0.25
+6/29/2016,8:50 AM,Reiser Lab The Box,"test protocol, write analysis code",,0.75
+6/29/2016,10:05 AM,Reiser Lab The Box,test analysis,,1.0
+6/29/2016,11:45 AM,Reiser Lab The Box,run experiment,,0.25
+6/29/2016,12:30 PM,Reiser Lab The Box,run experiment,,0.5
+6/29/2016,1:15 PM,Reiser Lab The Box,run experiment,,0.5
+6/29/2016,2:05 PM,Reiser Lab The Box,run experiment,,0.5
+6/29/2016,3:20 PM,Reiser Lab The Box,run experiment,,0.5
+6/29/2016,5:00 PM,depart,,,0.0
+6/29/2016,12:00 PM,lunch,,,0.0
+6/29/2016,11:00 AM,SH Post Processing,copy; MIPs; QC,20160527_101_SH,0.75
+6/29/2016,2:40 PM,XZ Post Processing,slidemap,20160603_100_XZ,0.75
+6/29/2016,1:00 PM,XZ Post Processing,slidemap,20160603_101_XZ,0.25
+6/29/2016,1:45 PM,XZ Post Processing,slidemap,20160603_101_XZ,0.25
+6/29/2016,3:50 PM,XZ Post Processing,,20160624_100_XZ,0.25
+6/29/2016,4:45 PM,XZ Post Processing,slidemap,20160624_100_XZ,0.25
+6/30/2016,9:00 AM,PTO/ STO,vacation,,8.0
+6/30/2016,5:00 PM,depart,,,0.0
+7/1/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/1/2016,5:00 PM,depart,,,0.0
+7/11/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/11/2016,5:00 PM,depart,,,0.0
+7/12/2016,9:15 AM,Classes and Training,Workstation,,0.25
+7/12/2016,9:30 AM,GI Meetings,"XZ, SH, YI",,2.75
+7/12/2016,3:10 PM,Other Imaging,test stand select,,0.25
+7/12/2016,8:30 AM,PTR Chores,email; calendar,,0.5
+7/12/2016,9:00 AM,Reiser Lab The Box,analysis,,0.25
+7/12/2016,12:10 PM,Reiser Lab The Box,analysis,,0.0
+7/12/2016,1:40 PM,Reiser Lab The Box,analysis,,1.25
+7/12/2016,5:55 PM,depart,,,0.0
+7/12/2016,12:15 PM,lunch,,,0.0
+7/12/2016,1:10 PM,XZ Post Processing,compare stats,20160624_100_XZ,0.5
+7/12/2016,3:00 PM,XZ Setup,imaging,20160630_100_XZ,0.25
+7/12/2016,3:20 PM,XZ Setup,imaging,20160630_100_XZ,2.5
+7/12/2016,12:45 PM,XZ Setup,prep,20160630_101_XZ,0.5
+7/13/2016,10:40 AM,Classes and Training,AiryScan,,1.0
+7/13/2016,1:00 PM,Classes and Training,Workstation,,0.5
+7/13/2016,9:50 AM,GENIE Fly Work,virgins,,0.25
+7/13/2016,5:00 PM,GENIE Fly Work,virgins,,0.25
+7/13/2016,2:30 PM,GI Meetings,,,1.5
+7/13/2016,8:30 AM,PTR Chores,email; calendar,,0.25
+7/13/2016,8:40 AM,Reiser Lab The Box,analysis,,0.5
+7/13/2016,12:15 PM,Reiser Lab The Box,analysis,,0.75
+7/13/2016,1:30 PM,Reiser Lab The Box,comparison Summary,,1.0
+7/13/2016,4:00 PM,Reiser Lab The Box,comparison Summary,,1.0
+7/13/2016,5:20 PM,depart,,,0.0
+7/13/2016,11:45 AM,lunch,,,0.0
+7/13/2016,9:05 AM,XZ Post Processing,copy; MIPs; QC,20160630_101_XZ,0.75
+7/13/2016,10:11 AM,XZ Post Processing,slidemap; stats,20160630_101_XZ,0.5
+7/14/2016,10:20 AM,GENIE Fly Work,virgins,,0.25
+7/14/2016,10:00 AM,PTR Chores,email; calendar,,0.25
+7/14/2016,10:30 AM,Reiser Lab The Box,comparison Summary,,1.5
+7/14/2016,12:00 PM,Reiser Lab The Box, run experiment - cancelled ,,0.25
+7/14/2016,12:45 PM,Reiser Lab The Box,comparison Summary,,2.0
+7/14/2016,2:40 PM,Reiser Lab The Box,fly work,,0.25
+7/14/2016,4:30 PM,Reiser Lab The Box,discussion,,0.25
+7/14/2016,4:50 PM,depart,,,0.0
+7/14/2016,12:15 PM,lunch,,,0.0
+7/14/2016,3:50 PM,XZ Post Processing,rename images; MIPs; stats,20160603_100_XZ,0.75
+7/14/2016,3:15 PM,XZ Post Processing,rename images; MIPs; stats,20160603_101_XZ,0.5
+7/14/2016,2:50 PM,XZ Post Processing,rename images; slidemap; MIPs; stats,20160624_100_XZ,0.5
+7/15/2016,8:55 AM,GENIE Fly Work,virgins,,0.25
+7/15/2016,3:50 PM,GENIE Fly Work,crosses,,0.75
+7/15/2016,2:20 PM,GI Meetings,"Reiser, SH, KK, XZ, Mike Dolan",,1.5
+7/15/2016,9:05 AM,Other Imaging,update confocal tables,,0.0
+7/15/2016,8:40 AM,PTR Chores,email; calendar,,0.25
+7/15/2016,10:15 AM,PTR Chores,chargebacks,,1.25
+7/15/2016,12:15 PM,Reiser Lab The Box,create protocol 5.39,,1.0
+7/15/2016,4:30 PM,depart,,,0.0
+7/15/2016,11:40 AM,lunch,,,0.0
+7/15/2016,1:20 PM,XZ Post Processing,stats,20160603_100_XZ,0.75
+7/15/2016,9:10 AM,XZ Post Processing,stats for Susana's run,20160603_101_20X,0.5
+7/15/2016,11:25 AM,PTR Chores,PTR-IHC Smartsheet updates,20160603_101_XZ,0.25
+7/15/2016,10:00 AM,XZ Post Processing,stats,20160603_101_XZ,0.25
+7/15/2016,2:10 PM,PTR Chores,PTR-IHC Smartsheet updates,20160624_100_XZ,0.25
+7/15/2016,2:00 PM,XZ Post Processing,,20160624_100_XZ,0.25
+7/15/2016,9:35 AM,SH Setup,prep,20160701_100_20X,0.5
+7/18/2016,9:45 AM,Classes and Training,email Aaron about 800 instruction,,0.0
+7/18/2016,12:00 PM,Classes and Training,Git,,1.0
+7/18/2016,1:00 PM,Group Meetings,team meeting,,0.75
+7/18/2016,9:40 AM,Other Imaging,check HD space,,0.0
+7/18/2016,4:40 PM,Other Imaging,PTR-IHC Smartsheet updates,,0.5
+7/18/2016,9:10 AM,PTR Chores,email; calendar,,0.5
+7/18/2016,4:30 PM,PTR Chores,chargebacks,,0.25
+7/18/2016,5:12 PM,depart,,,0.0
+7/18/2016,9:50 AM,KK Post Processing,renaming,20160527_100_KK,1.25
+7/18/2016,1:45 PM,KK Post Processing,slidemaps,20160527_100_KK,1.25
+7/18/2016,3:45 PM,KK Post Processing,verify all backups,20160527_100_KK,0.5
+7/18/2016,11:00 AM,KK Post Processing,renaming,20160602_100_KK,1.0
+7/18/2016,3:00 PM,KK Post Processing,slidemaps,20160602_100_KK,0.75
+7/18/2016,4:15 PM,KK Post Processing,verify all backups,20160602_100_KK,0.25
+7/19/2016,9:15 AM,PTR Chores,email; calendar,,0.25
+7/19/2016,9:30 AM,PTR Chores,chargebacks,,0.75
+7/19/2016,12:10 PM,PTR Chores,chargebacks,,0.25
+7/19/2016,10:15 AM,Reiser Lab The Box,cross,,1.0
+7/19/2016,12:25 PM,Reiser Lab The Box,sort,,1.25
+7/19/2016,5:20 PM,depart,,,0.0
+7/19/2016,11:30 PM,lunch,,,0.0
+7/19/2016,11:20 AM,XZ - Post Processing,update slidemaps,20160624_100_XZ,12.25
+7/19/2016,11:15 AM,XZ - Post Processing,update slidemaps,20160630_101_XZ,0.0
+7/19/2016,1:45 PM,XZ - Post Processing,QC - diff caused by change to max pixel int & max sat % not obvious,20160630_101_XZ,1.25
+7/19/2016,3:00 PM,XZ - Setup (3), confocal,20160630_101_XZ,2.25
+7/20/2016,9:10 AM,Classes and Training,learn 800 Microscope,,0.75
+7/20/2016,3:00 PM,Classes and Training,AiryScan postprocessing,,0.25
+7/20/2016,1:48 PM,Group Meetings,"PTR-IHC: Misha, XZ, SH, MD",,1.25
+7/20/2016,4:06 PM,KK - Post Processing,AiryScan PP,,0.75
+7/20/2016,11:43 AM,PTR Chores,email; calendar,,0.0
+7/20/2016,3:15 PM,PTR Chores,PTR-IHC Smartsheet updates,,0.75
+7/20/2016,4:55 PM,PTR Chores,chargebacks,,0.0
+7/20/2016,12:20 PM,Reiser Lab The Box,test protocol 5.39,,0.25
+7/20/2016,5:00 PM,depart,,,0.0
+7/20/2016,11:50 AM,lunch,,,0.0
+7/20/2016,12:50 PM,lunch,fitness mtg,,0.0
+7/20/2016,1:10 PM,XZ - Post Processing (3),copy files,20160630_101_XZ,0.75
+7/20/2016,12:36 PM,SH - Post Process,slidemap,20160712-03_SH,0.25
+7/20/2016,11:00 AM,SH - PostProcess,slidemap,20160712-03_SH,0.75
+7/20/2016,10:00 AM,SH - Setup,for Misha on 800.,20160712-03_SH,1.0
+7/21/2016,11:00 AM,GENIE Fly Work,flip parents & stocks,,0.25
+7/21/2016,10:40 AM,KK - Post Processing,show Zhengchang how to postprocess AiryScan files,,0.0
+7/21/2016,9:30 AM,PTR Chores,email; calendar,,0.25
+7/21/2016,9:50 AM,PTR Chores,PTR-IHC Smartsheet updates,,0.75
+7/21/2016,10:45 AM,PTR Chores,PTR-IHC Smartsheet updates,,0.25
+7/21/2016,11:20 AM,PTR Chores,PTR-IHC Smartsheet updates,,0.25
+7/21/2016,1:15 PM,PTR Chores,timesheet,,0.0
+7/21/2016,11:10 AM,Reiser Lab The Box,flip parents,,0.25
+7/21/2016,11:55 AM,Reiser Lab The Box,thaw media,,0.0
+7/21/2016,12:00 PM,Reiser Lab The Box,experiment,,0.25
+7/21/2016,12:30 PM,Reiser Lab The Box,experiment,,0.75
+7/21/2016,1:30 PM,Reiser Lab The Box,experiment,,0.5
+7/21/2016,2:45 PM,Reiser Lab The Box,experiment,,0.25
+7/21/2016,3:35 PM,Reiser Lab The Box,experiment,,0.25
+7/21/2016,3:50 PM,depart,,,0.0
+7/21/2016,11:30 AM,lunch,,,0.0
+7/21/2016,12:15 PM,lunch,fitness mtg,,0.0
+7/21/2016,1:20 PM,KK - Post Processing,update slidemaps,20160527_100_KK,0.25
+7/21/2016,2:00 PM,KK - Post Processing,update slidemaps,20160527_100_KK,0.25
+7/21/2016,2:55 PM,KK - Post Processing,copy files,20160527_100_KK,0.25
+7/21/2016,3:45 PM,KK - Post Processing,update slidemaps,20160527_100_KK,0.0
+7/21/2016,2:10 PM,KK - Post Processing,update slidemaps,20160602_100_KK,0.5
+7/21/2016,3:15 PM,KK - Post Processing,copy files,20160602_100_KK,0.25
+7/4/2016,9:00 AM,HHMI Holiday,vacation,,8.0
+7/4/2016,5:00 PM,depart,,,0.0
+7/5/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/5/2016,5:00 PM,depart,,,0.0
+7/6/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/6/2016,5:00 PM,depart,,,0.0
+7/7/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/7/2016,5:00 PM,depart,,,0.0
+7/8/2016,9:00 AM,PTO/ STO,vacation,,8.0
+7/8/2016,5:00 PM,depart,,,0.0

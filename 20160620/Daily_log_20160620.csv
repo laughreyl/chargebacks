@@ -75,8 +75,10 @@
 6/28/2016,9:55 AM,Reiser Lab The Box,sort,
 6/28/2016,11:10 AM,SH Setup,discuss w/ SH,20160527_101_SH
 6/28/2016,11:45 AM,lunch,,
-6/28/2016,1:20 PM,SH Setup,find conditions w/ no bleed thru,20160527_101_SH
-6/28/2016,2:00 PM,SH Setup,20X imaging,20160527_101_SH
+6/28/2016,1:20 PM,GI Meetings,discuss how to find conditions w/ no bleed thru,20160527_101_SH
+6/28/2016,2:00 PM,SH Setup,20X imaging & control exps,20160527_101_SH
+6/28/2016,5:20 PM,SH Post Processing,copy; MIPS,20160527_101_SH
+6/28/2016,5:45 PM,lunch,,
 6/28/2016,6:02 PM,Reiser Lab The Box,write protocol,
 6/28/2016,6:45 PM,SH Setup,63X imaging,20160527_101_SH
 6/28/2016,8:26 PM,depart,,
@@ -185,19 +187,55 @@
 7/18/2016,4:30 PM,PTR Chores,chargebacks,
 7/18/2016,4:40 PM,Other Imaging,PTR-IHC Smartsheet updates,
 7/18/2016,5:12 PM,depart,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
+7/19/2016,9:15 AM,PTR Chores,email; calendar,
+7/19/2016,9:30 AM,PTR Chores,chargebacks,
+7/19/2016,10:15 AM,Reiser Lab The Box,cross,
+7/19/2016,11:15 AM,XZ - Post Processing,update slidemaps,20160630_101_XZ
+7/19/2016,11:20 AM,XZ - Post Processing,update slidemaps,20160624_100_XZ
+7/19/2016,11:30 PM,lunch,,
+7/19/2016,12:10 PM,PTR Chores,chargebacks,
+7/19/2016,12:25 PM,Reiser Lab The Box,sort,
+7/19/2016,1:45 PM,XZ - Post Processing,QC - diff caused by change to max pixel int & max sat % not obvious,20160630_101_XZ
+7/19/2016,3:00 PM,XZ - Setup (3), confocal,20160630_101_XZ
+7/19/2016,5:20 PM,depart,,
+7/20/2016,9:10 AM,Classes and Training,learn 800 Microscope,
+7/20/2016,10:00 AM,SH - Setup,for Misha on 800.,20160712-03_SH
+7/20/2016,11:00 AM,SH - PostProcess,slidemap,20160712-03_SH
+7/20/2016,11:43 AM,PTR Chores,email; calendar,
+7/20/2016,11:50 AM,lunch,,
+7/20/2016,12:20 PM,Reiser Lab The Box,test protocol 5.39,
+7/20/2016,12:36 PM,SH - Post Process,slidemap,20160712-03_SH
+7/20/2016,12:50 PM,lunch,fitness mtg,
+7/20/2016,1:10 PM,XZ - Post Processing (3),copy files,20160630_101_XZ
+7/20/2016,1:48 PM,Group Meetings,"PTR-IHC: Misha, XZ, SH, MD",
+7/20/2016,3:00 PM,Classes and Training,AiryScan postprocessing,
+7/20/2016,3:15 PM,PTR Chores,PTR-IHC Smartsheet updates,
+7/20/2016,4:06 PM,KK - Post Processing,AiryScan PP,
+7/20/2016,4:55 PM,PTR Chores,chargebacks,
+7/20/2016,5:00 PM,depart,,
+7/21/2016,9:30 AM,PTR Chores,email; calendar,
+7/21/2016,9:50 AM,PTR Chores,PTR-IHC Smartsheet updates,
+7/21/2016,10:40 AM,KK - Post Processing,show Zhengchang how to postprocess AiryScan files,
+7/21/2016,10:45 AM,PTR Chores,PTR-IHC Smartsheet updates,
+7/21/2016,11:00 AM,GENIE Fly Work,flip parents & stocks,
+7/21/2016,11:10 AM,Reiser Lab The Box,flip parents,
+7/21/2016,11:20 AM,PTR Chores,PTR-IHC Smartsheet updates,
+7/21/2016,11:30 AM,lunch,,
+7/21/2016,11:55 AM,Reiser Lab The Box,thaw media,
+7/21/2016,12:00 PM,Reiser Lab The Box,experiment,
+7/21/2016,12:15 PM,lunch,fitness mtg,
+7/21/2016,12:30 PM,Reiser Lab The Box,experiment,
+7/21/2016,1:15 PM,PTR Chores,timesheet,
+7/21/2016,1:20 PM,KK - Post Processing,update slidemaps,20160527_100_KK
+7/21/2016,1:30 PM,Reiser Lab The Box,experiment,
+7/21/2016,2:00 PM,KK - Post Processing,update slidemaps,20160527_100_KK
+7/21/2016,2:10 PM,KK - Post Processing,update slidemaps,20160602_100_KK
+7/21/2016,2:45 PM,Reiser Lab The Box,experiment,
+7/21/2016,2:55 PM,KK - Post Processing,copy files,20160527_100_KK
+7/21/2016,3:15 PM,KK - Post Processing,copy files,20160602_100_KK
+7/21/2016,3:35 PM,Reiser Lab The Box,experiment,
+7/21/2016,3:45 PM,KK - Post Processing,update slidemaps,20160527_100_KK
+7/21/2016,3:45 PM,depart,,
 ,,,,
 ,,,,
 ,,,,
